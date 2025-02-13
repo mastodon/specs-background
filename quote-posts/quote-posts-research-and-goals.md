@@ -1,3 +1,5 @@
+(work by https://github.com/ClearlyClaire)
+
 ## High-level view of quote-posts
 
 At their core, quote posts are posts that directly reference another post which is embedded or inlined in part or in full.
