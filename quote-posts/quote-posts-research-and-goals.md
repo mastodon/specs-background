@@ -220,6 +220,8 @@ Some ideas of how we can approach that:
 - listing who can quote you can help limit the harassment part, though it has challenges protocol-wise
 - a posteriori removal of a quote can also help with the harassment part, though it has even more challenges protocol-wise
 
+Comment on the bottom reduces the impact of the quoter's voice, which could reduce their ability to dunk. However, this comes at a cost, reducing the voices of positive posters that are trying to build community.
+
 ## Mastodon implementation design choices
 
 > [!NOTE]
